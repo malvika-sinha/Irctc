@@ -317,11 +317,99 @@ table,th,td{
     }
 .image3{
     width: 100%;
-    top: -22rem;
+    top: 14rem;
     position: relative;
 }
 
 .lists3{
-    top: -21rem;
+    top: 15rem;
     position: relative;
+}
+.con4{
+    background-color: #2e8bc9;
+    width: 72%;
+    left: 15%;
+    position: relative;
+    height: 24px;
+}
+.con6{
+    background-color: #2e8bc9;
+    width: 72%;
+    left: 15%;
+    position: relative;
+    height: 24px;
+}
+.this{
+    border: 1px solid #85a4bd;
+    position: relative;
+    top: -26rem;
+    height: 13rem;
+    width: 72%;
+    left: 13.2rem;
+}
+
+.payment{
+    left: 14px;
+    position: relative;
+    font-family: calibri;
+    color: #0a2b8f;
+
+}
+.pay{
+    left: 15%;
+    position: relative;
+    top: -2rem;
+}
+.intenet_bank{
+    left: 8%;
+    position: relative;
+}
+.credit{
+    left: 8%;
+    position: relative;
+    color: #0a2b8f;
+}
+.debit{
+    left: 8%;
+    position: relative;
+}
+
+.banks{
+    left: 1%;
+    position: relative;
+    top: 2rem;
+    color: #0a2b8f;
+}
+#bank{
+    left: 10%;
+    position: relative;
+    top: 2rem;
+    color: black;
+    width: 10%;
+}
+.list3{
+    top: 8rem;
+    position: relative;
+}
+.tag{
+    top: -8rem;
+    position: relative;
+    left: 6%;
+    background-color: #f5a700;
+    width: 90%;
+    height: 23px;
+    color: white;
+    font-family: calibri;
+}
+.cls1{
+    background-color: #f5a700;
+    color: white;
+    border: none;
+    appearance: none;
+}
+.cls{
+    left: 48%;
+    position: relative;
+    top: -7rem;
+    width: 52%;
 }
